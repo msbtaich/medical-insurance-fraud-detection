@@ -138,6 +138,6 @@ The full interactive dashboard is included as `Medical Claims Fraud Detection Da
 Actuarial Science Graduate - Notre Dame University Louaize  
 Currently pursuing SOA Exam P | Actuarial and Insurance Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/marie-christine-btaich)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/marie-christine-btaich/)
 [![GitHub](https://img.shields.io/badge/GitHub-msbtaich-black)](https://github.com/msbtaich)
 
